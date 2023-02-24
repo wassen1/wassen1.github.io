@@ -1,5 +1,5 @@
 body {
-    font-family: system-ui;
+    font-family: 'Source Sans Pro', sans-serif;
     background: #f06d06;
     color: white;
     text-align: center;
@@ -7,4 +7,12 @@ body {
 
   .blue {
     color: rgb(33, 19, 92);
+  }
+
+  h1 {
+    font-family: 'Merriweather', sans-serif;
+  }
+
+  a {
+    color: rgb(29, 253, 178);
   }
