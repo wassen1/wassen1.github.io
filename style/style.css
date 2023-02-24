@@ -4,3 +4,7 @@ body {
     color: white;
     text-align: center;
   }
+
+  .blue {
+    color: rgb(33, 19, 92);
+  }
